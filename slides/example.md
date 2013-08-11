@@ -32,3 +32,4 @@
   <div class="large-6 columns"><span class="show-for-small">full</span><span class="hide-for-small">6</span></div>
 </div>
 ```
+\* The `display` class is not a part of Foundation. The rows and columns are unstyled by default. So, a display class with custom CSS is added to more easily visualize the grid.
