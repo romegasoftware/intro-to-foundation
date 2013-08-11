@@ -1,6 +1,6 @@
 ##  OK. So what does Foundation actually provide?
 
-* A responsive-grid
+* A responsive grid
 * Various components for navigation, pagination, etc.
 * Various stylable button components.
 * Styling for forms.
