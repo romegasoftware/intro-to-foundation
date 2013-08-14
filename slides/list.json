@@ -11,5 +11,22 @@
     "example-above-768px-breakpoint.md",
     "example-below-768px-breakpoint.md",
     "ok-for-real-lets-build-something.md",
-    "lets-get-foundation.md"
+    "lets-get-foundation.md",
+    "extract-the-package-somewhere.md",
+    "lets-start-with-a-basic-template.md",
+    "mockup.md",
+    "lets-add-a-menubar.md",
+    "adding-the-callout.md",
+    "adding-the-callout-pt-2.md",
+    "adding-the-image-row-with-text.md",
+    "adding-the-image-row-with-text-pt-2.md",
+    "lets-add-that-paragraph.md",
+    "lets-add-that-paragraph-pt-2.md",
+    "lets-add-that-footer.md",
+    "lets-add-that-footer-pt-2.md",
+    "ok-looks-like-were-done.md",
+    "add-stylesheet.md",
+    "our-final-result.md",
+    "final-remarks.md",
+    "questions.md"
 ]
