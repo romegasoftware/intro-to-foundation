@@ -22,6 +22,20 @@ Then, also from the root of the project directory, start the server: `grunt serv
 
 You should now be able to access the slides from `http://localhost:9000`.
 
+## Demo Source
+
+Demo source is located in the `foundation` directory. They are as follows:
+
+* Grid Example
+  * `foundation/gridexample.html`
+* Incremental Demo
+  * Step 1: `foundation/step_01.html`
+  * Step 2: `foundation/step_02.html`
+  * Step 3: `foundation/step_03.html`
+  * Step 4: `foundation/step_04.html`
+  * Step 5: `foundation/step_05.html`
+  * Step 6: `foundation/step_06.html`
+
 ## Resources Mentioned During The Presentation
 
 * ZURB Foundation
@@ -31,6 +45,8 @@ You should now be able to access the slides from `http://localhost:9000`.
 * Twitter Bootstrap
   * For latest: http://getbootstrap.com/
   * For latest stable: http://getbootstrap.com/2.3.2/
+* Placehold.it, placeholder images for your HTML mockups
+  * http://placehold.it/
 * Sass
   * http://sass-lang.com/
 * Less
