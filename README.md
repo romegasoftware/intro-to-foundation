@@ -1,6 +1,6 @@
 # Introduction To Foundation Presentation
 
-This **Introduction To Foundation** presentation made at the [7hills Software Developer's Group](http://www.meetup.com/Maker-Cities-Northwest-GA/events/qdgzlgyrmbzb/) on August 15th, 2013.
+This **Introduction To Foundation** presentation made at the [7hills Software Developer's Group](http://www.meetup.com/Maker-Cities-Northwest-GA/events/132524422/) on August 15th, 2013.
 
 ## Viewing The Presentation
 
